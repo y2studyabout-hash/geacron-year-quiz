@@ -74,6 +74,17 @@ https://www.geacron.com/
 
 ---
 
+## 🖥 インストールイメージ
+
+### Tampermonkey インストール画面
+![Tampermonkey Install](docs/tampermonkey-install.png)
+
+### GeaCron 上での動作例
+![GeaCron UI](docs/geacron-ui-example.png)
+
+
+---
+
 ## 📄 ライセンス / 貢献
 
 - 改変・カスタマイズ歓迎です
