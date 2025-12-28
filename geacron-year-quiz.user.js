@@ -259,7 +259,7 @@
     return 20;
   }
 
-  // ====== 履歴ラベル（更新ボタン右） ======
+  // ====== 履歴ラベル ======
   function positionHistoryLabel(historyEl) {
     if (!historyEl) return;
     const btn = findUpdateButton();
