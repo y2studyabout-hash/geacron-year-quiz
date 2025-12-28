@@ -29,7 +29,7 @@ https://www.geacron.com/
 
 1. ブラウザに Tampermonkey をインストール
 2. 次の URL を開く（Raw 形式のスクリプト）  
-   👉 **<ここに Raw URL を入れてください>**
+   👉 **<https://raw.githubusercontent.com/y2studyabout-hash/geacron-year-quiz/main/geacron-year-quiz.user.js>**
 3. Tampermonkey のインストール画面で「Install」を選択
 4. GeaCron を開き直すと UI が表示されます
 
