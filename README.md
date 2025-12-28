@@ -23,6 +23,7 @@ GeaCron の年号表示を一時的に隠し、
 
 https://www.geacron.com/
 
+
 ---
 
 ## 🧩 インストール方法
@@ -52,6 +53,17 @@ https://www.geacron.com/
 
 ---
 
+## 🖥 インストールイメージ
+
+### Tampermonkey インストール画面
+![Tampermonkey Install](docs/tampermonkey-install.png)
+
+### GeaCron 上での動作例
+![GeaCron UI](docs/geacron-ui-example.png)
+
+
+---
+
 ## 🛠 トラブルシューティング
 
 - UI が表示されない  
@@ -70,17 +82,6 @@ https://www.geacron.com/
 - サイト規約に反する目的では使用しないでください
 - 公開サービスではなくユーザースクリプトであり、  
   利用は自己責任でお願いします
-
-
----
-
-## 🖥 インストールイメージ
-
-### Tampermonkey インストール画面
-![Tampermonkey Install](docs/tampermonkey-install.png)
-
-### GeaCron 上での動作例
-![GeaCron UI](docs/geacron-ui-example.png)
 
 
 ---
