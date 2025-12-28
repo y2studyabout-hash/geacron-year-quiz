@@ -5,7 +5,7 @@ GeaCron の年号表示を一時的に隠し、
 
 - 古代 / 中世 / 近代 / 現代 からランダム出題
 - 年号入力 → 答え合わせ → 正誤判定
-- 判定メッセージはふわっと表示 → 5 秒後にフェードアウト
+- 判定メッセージは表示から 5 秒後にフェードアウト
 - 直前結果を「地図更新ボタンの右」に履歴表示
 - UI は地図コントローラ左側に固定（画面を圧迫しません）
 
@@ -29,7 +29,7 @@ https://www.geacron.com/
 
 1. ブラウザに Tampermonkey をインストール
 2. 次の URL を開く（Raw 形式のスクリプト）  
-   👉 **<https://raw.githubusercontent.com/y2studyabout-hash/geacron-year-quiz/main/geacron-year-quiz.user.js>**
+   **<https://raw.githubusercontent.com/y2studyabout-hash/geacron-year-quiz/main/geacron-year-quiz.user.js>**
 3. Tampermonkey のインストール画面で「Install」を選択
 4. GeaCron を開き直すと UI が表示されます
 
